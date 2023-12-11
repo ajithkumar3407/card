@@ -1,0 +1,27 @@
+
+form{
+    width: 40% !important;
+    box-shadow: 0 0 5px gray !important;
+    padding: 30px !important;
+    background-color: rgb(73, 28, 179) !important;
+}
+form h2{
+    padding-bottom: 30px;
+    color: aliceblue;
+}
+.profile-card{
+    width: 40%;
+    height: 70vh !important;
+    background-color: rgb(73, 28, 179) !important;
+    color: aliceblue !important;
+    box-shadow: 0 0 13px gray;
+    border: 0 !important;
+}
+.profile-card .title{
+    font-size: 30px;
+    font-weight: 700;
+}
+.profile-card .inner-text{
+    margin-top: 25px;
+    font-size: 20px;
+}
